@@ -1,5 +1,1 @@
-
-this is version 1 of my project
-I want this to go into commit 2
-Changed lol
-This is changed(These changes will be always in the form of the codes not in the language way) so after changing this it'll show modified first.txt
+okay changed
